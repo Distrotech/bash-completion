@@ -27,7 +27,6 @@ bashcomp_DATA = a2x \
 		brctl \
 		btdownloadheadless.py \
 		bzip2 \
-		cal \
 		cancel \
 		cardctl \
 		ccache \
@@ -43,7 +42,6 @@ bashcomp_DATA = a2x \
 		chpasswd \
 		chronyc \
 		chrpath \
-		chsh \
 		cksfv \
 		cleanarch \
 		clisp \
@@ -65,7 +63,6 @@ bashcomp_DATA = a2x \
 		desktop-file-validate \
 		dhclient \
 		dict \
-		dmesg \
 		dnsspoof \
 		dot \
 		dpkg \
@@ -76,7 +73,6 @@ bashcomp_DATA = a2x \
 		dumpe2fs \
 		e2freefrag \
 		e2label \
-		eject \
 		eog \
 		ether-wake \
 		evince \
@@ -120,12 +116,10 @@ bashcomp_DATA = a2x \
 		gzip \
 		hcitool \
 		hddtemp \
-		hexdump \
 		hid2hci \
 		hping2 \
 		htop \
 		htpasswd \
-		hwclock \
 		iconv \
 		id \
 		idn \
@@ -137,7 +131,6 @@ bashcomp_DATA = a2x \
 		installpkg \
 		interdiff \
 		invoke-rc.d \
-		ionice \
 		ip \
 		iperf \
 		ipmitool \
@@ -177,7 +170,6 @@ bashcomp_DATA = a2x \
 		list_lists \
 		list_members \
 		list_owners \
-		look \
 		lpq \
 		lpr \
 		lrzip \
@@ -225,7 +217,6 @@ bashcomp_DATA = a2x \
 		nc \
 		ncftp \
 		nethogs \
-		newgrp \
 		newlist \
 		newusers \
 		ngrep \
@@ -283,7 +274,6 @@ bashcomp_DATA = a2x \
 		rdesktop \
 		remove_members \
 		removepkg \
-		renice \
 		reportbug \
 		reptyr \
 		resolvconf \
@@ -298,7 +288,6 @@ bashcomp_DATA = a2x \
 		rpmcheck \
 		rrdtool \
 		rsync \
-		rtcwake \
 		sbcl \
 		sbopkg \
 		screen \
@@ -320,7 +309,6 @@ bashcomp_DATA = a2x \
 		sshow \
 		strace \
 		strings \
-		su \
 		sudo \
 		svcadm \
 		svk \
